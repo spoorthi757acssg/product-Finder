@@ -1,0 +1,6 @@
+streamlit
+pandas
+NumPy
+scikit-learn
+requests
+Pillow
